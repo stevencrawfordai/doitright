@@ -1,2 +1,2 @@
 # doitright
-Test by doing it right 
+Just follow the steps it should not be that hard.
